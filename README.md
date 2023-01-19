@@ -86,10 +86,9 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center">
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=remytep&show_icons=true&theme=radical&count_private=true&hide_border=true)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=remytep&show_icons=true&theme=radical&count_private=true&hide_border=true)
 </div>  
 
 
