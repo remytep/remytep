@@ -6,7 +6,7 @@
 ### <div align="center">I'm Remy, a web developer from France</div>  
   
 
-- 🔭  I’m currently looking for a work/study position as a web developer  
+- 🔭  I’m currently working as a frontend developer at Bonhomme (bonhommeparis.com)
   
 
 - 👨‍💻 All of my projects are available at [remytep.dev](remytep.dev)  
